@@ -1,4 +1,4 @@
-# uci-challenge-04-web-apis
+# uci-04-web-apis
 Simple two-page blog using local storage for light-dark mode.
 
 # 04 Web APIs: Personal Blog
